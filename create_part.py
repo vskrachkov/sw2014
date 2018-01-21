@@ -4,9 +4,8 @@ import pythoncom
 
 # get existing sw app instance
 swYearLastDigit = 4  # sw 2014
-swApp = win32com.client.Dispatch("SldWorks.Application.%d" % (20 + (swYearLastDigit - 2)))
-
-activeDoc = swApp.ActiveDoc
+swApp = win32com.client.DispatchEx("SldWorks.Application.%d" % (20 + (swYearLastDigit - 2)))
+swApp.Visible = 1
 
 # get active doc or create new one
 if swApp.ActiveDoc:
