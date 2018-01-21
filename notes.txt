@@ -1,0 +1,26 @@
+GUIDs
+---
+
+solid works 2012: {B4875E89-91F6-4124-BB63-2539727E98FA}
+solid works 2014: {CF33D714-2C34-4608-8766-2536E6C41536}
+solid works 2015: {4687F359-55D0-4CD3-B6CF-2EB42C11F989}
+
+
+types
+---
+
+(16387, 3) : win32com.client.VARIANT(pythoncom.VT_BYREF | pythoncom.VT_I4, -1)
+
+
+path to the maker
+---
+
+C:\Users\home\AppData\Local\Programs\Python\Python36\Lib\site-packages\win32com\client\maker.py
+
+
+useful links
+---
+
+http://help.solidworks.com/2014/english/api/sldworksapiprogguide/Welcome.htm
+https://www.thecadforums.com/threads/api-python-only-one-solidworks-instance.56215/
+http://joshuaredstone.blogspot.com/2015/02/solidworks-macros-via-python.html
