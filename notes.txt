@@ -22,5 +22,6 @@ useful links
 ---
 
 http://help.solidworks.com/2014/english/api/sldworksapiprogguide/Welcome.htm
+https://msdn.microsoft.com/en-us/library/cc237865.aspx
 https://www.thecadforums.com/threads/api-python-only-one-solidworks-instance.56215/
 http://joshuaredstone.blogspot.com/2015/02/solidworks-macros-via-python.html
